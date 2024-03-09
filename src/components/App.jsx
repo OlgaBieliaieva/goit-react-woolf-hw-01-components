@@ -12,8 +12,10 @@ export const App = () => {
     <div
       style={{
         height: '100vh',
+        width: '100vw',
         display: 'flex',
         justifyContent: 'center',
+        gap: 24,
         alignItems: 'center',
         fontSize: 40,
         color: '#010101',
