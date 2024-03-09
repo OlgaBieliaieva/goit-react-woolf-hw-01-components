@@ -1,6 +1,5 @@
 .friendListContainer {
-  width: 80%;
-  max-width: 600px;
+ width: 400px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -33,8 +32,8 @@
 }
 
 .friendAvatar {
-  width: 130px;
-  height: 130px;
+  width: 80px;
+  height: 80px;
   border-radius: 4px;
   background-color: #f3f6f9;
 }
